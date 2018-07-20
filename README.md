@@ -16,5 +16,5 @@ Run Docker Image
 Accessing The Web Service
 -
 
-`curl http://localhost:9000/forex-rate-service/rate/USD/ZAR | json_pp`
+`curl http://localhost:9000/forex-app/rate/USD/ZAR | json_pp`
  
