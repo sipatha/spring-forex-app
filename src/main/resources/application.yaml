@@ -3,6 +3,8 @@ spring:
     name: 'forex-app'
   main:
     banner-mode: 'off'
+  jackson:
+    default-property-inclusion: non_null
 server:
   port: ${PORT:9000}
   servlet:
