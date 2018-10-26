@@ -18,3 +18,7 @@ Accessing The Web Service
 
 `curl http://localhost:9000/forex-app/rate/USD/ZAR | json_pp`
  
+ DepShield
+ -
+ 
+ [![DepShield Badge](https://depshield.sonatype.org/badges/n002213f/spring-forex-app/depshield.svg)](https://depshield.github.io)
